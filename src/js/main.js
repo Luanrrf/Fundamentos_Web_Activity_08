@@ -174,14 +174,4 @@ document.addEventListener('DOMContentLoaded',function(){
         }
         
     }
-
-    //${jsonDataParse[titulosSemelhantes[0]-1].figura}
-    //${jsonDataParse[titulosSemelhantes[1]-1].figura}
-
-
-
-
-    
-
-
 });
